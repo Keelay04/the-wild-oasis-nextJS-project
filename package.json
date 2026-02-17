@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "prod": "next build && next start",
-    "install": "npm install --legacy-peer-deps",
     "lint": "next lint"
   },
   "dependencies": {
